@@ -1,4 +1,4 @@
 
-Sample Java Applicaiton V1.21
+Sample Java Applicaiton V1.22
 
 
